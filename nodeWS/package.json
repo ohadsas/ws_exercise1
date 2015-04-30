@@ -1,0 +1,11 @@
+{
+  "name": "nodeWS",
+  "version": "1.0.0",
+  "description": "",
+  "main": "ws_index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ohad Sasson",
+  "license": "ISC"
+}
