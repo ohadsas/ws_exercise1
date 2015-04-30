@@ -17,6 +17,5 @@ playerOne.on("pointsHasChanged",playerOne.displayPoints);
 playerOne.goodPoints(2);
 playerOne.badPoints(3);
 playerOne.goodPoints(4);
-// playerOne.goodPoints(5);
-//player.BadPoints(6);
-//player.goodPoints(1);
+ playerOne.goodPoints(5);
+
